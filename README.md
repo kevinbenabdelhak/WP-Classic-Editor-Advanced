@@ -1,6 +1,6 @@
 # WP Classic Editor Advanced
 
-Contributeurs : votre_nom  
+Contributeurs : Kevin Benabdelhak
 Tags : TinyMCE, éditeur, balises HTML, sémantique, plugins  
 Nécessite au moins : 5.0  
 Testé jusqu'à : 6.5.3  
