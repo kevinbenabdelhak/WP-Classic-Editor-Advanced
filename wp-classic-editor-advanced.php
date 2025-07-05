@@ -5,7 +5,7 @@
  Plugin Name: WP Classic Editor Advanced
  Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-classic-editor-advanced/
  Description: WP Classic Editor Advanced est un plugin WordPress qui enrichit l'éditeur classique en ajoutant des boutons personnalisés pour insérer facilement des balises HTML sémantiques. Améliorez votre expérience d'édition avec des fonctionnalités avancées pour une meilleure gestion du contenu.
- Version: 1.1
+ Version: 1.0
  Author: Kevin BENABDELHAK
  Author URI: https://kevin-benabdelhak.fr
  Contributors: kevinbenabdelhak
