@@ -55,3 +55,7 @@ Ce plugin est spécifiquement conçu pour l'éditeur classique de WordPress. Pou
 ### 1.0
 * Ajout des fonctionnalités d'insertion de balises HTML sémantiques.
 * Interface d'administration pour gérer les paramètres du plugin.
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
